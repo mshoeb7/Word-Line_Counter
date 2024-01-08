@@ -1,5 +1,5 @@
 # Word-Line_Counter
-## Building the Basic Word Counter\n
+## Building the Basic Word Counter
 Created a tool that counts the number of words or lines provided as input
 using the standard input (STDIN) connection. By default, this tool will count
 the number of words, unless it receives the -l flag, in which case it’ll count the
